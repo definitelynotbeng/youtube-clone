@@ -1,0 +1,47 @@
+p {
+  font-family: Roboto;  /* Montserrat  regular + bold*/
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.text-title {
+  font-size: 18px;
+  font-weight: bold;
+  width: 300px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.text-stats {
+  color: gray;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.apple-text {
+  font-size: 14px;
+  color: white;
+  background-color: rgb(227, 65, 64);
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  margin-bottom: 50px;
+}
+
+.shop-link{
+  cursor: pointer;
+}
+
+.shop-link:hover{
+  text-decoration: underline;
+}
+
+.comment {
+  font-size: 14px;
+}
+
+.acc-link{
+  cursor: pointer;
+  color: rgb(80, 128, 160);
+  text-decoration: underline;
+}
